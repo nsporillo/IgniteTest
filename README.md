@@ -53,7 +53,7 @@ named arguments:
                          PESSIMISTIC)
  ```
  
- Sample output
+ Sample output for `Namespace(LIGHT_RUNNABLES=10, WORKLOAD=0, ISOLATION=REPEATABLE_READ, CONCURRENCY=PESSIMISTIC, THREADS=32, SECONDS=15, HEAVY_RUNNABLES=10, NUM_KEYS=1)`
  ```
  --------------------------------------
 Running for 13 seconds.
