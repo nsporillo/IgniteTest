@@ -52,3 +52,16 @@ named arguments:
                          Ignite Transaction  Concurrency  setting (default:
                          PESSIMISTIC)
  ```
+ 
+ Sample output
+ ```
+ --------------------------------------
+Running for 13 seconds.
+TPS: 24699.040
+Avg Tx Time: 0.777 ms
+Tx Commited: 321528
+Holding locks for: 20 tx. Total locked keys: 1
+Took 3.0E-4 ms to do 0 hashes. (0.000 h/ms)
+Atomic Value: 5
+--------------------------------------
+ ```
