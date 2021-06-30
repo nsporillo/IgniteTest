@@ -1,0 +1,6 @@
+net\porillo\IgniteTest.class
+net\porillo\runnables\HeavyRunnable.class
+net\porillo\runnables\LightRunnable.class
+net\porillo\Utility.class
+net\porillo\affinity\CustomAffinity.class
+net\porillo\runnables\ReportRunnable.class
