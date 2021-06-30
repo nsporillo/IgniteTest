@@ -1,8 +1,6 @@
 # IgniteTest
- Benchmark tool for examining multi-threaded Ignite transaction-based applications
- We use threads to simulate how in a Spring-boot WebService, Tomcat will execute logic
- on a thread - pulling from a fixed thread pool. This tool only exercises the Distributed Key-Value
- datastructure exposed by Ignite, which implements the JSR-107 specification.
+ Benchmark tool for examining multi-threaded Ignite transaction-based applications.We use threads to simulate how in a Spring-boot WebService, Tomcat will execute logic on a thread - pulling from a fixed thread pool. This tool only exercises the Distributed Key-Value data structure exposed by Ignite, which implements the
+ JSR-107 specification.
  
  JSR-107: https://download.oracle.com/otndocs/jcp/jcache-1_0-fr-spec/index.html
 
